@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  BuildingNSDog
+//
+//  Created by Matt Amerige on 7/3/16.
+//  Copyright © 2016 Wubbyland. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "BuildingNSDog.h"
+
+#endif /* PrefixHeader_pch */
